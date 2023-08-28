@@ -128,8 +128,29 @@ body{
 
 /* ---------------------------payment-part-start--------------------- */
 .payment-part{
-    width: 1440px;
+    background-color: #E7EDDD;
+    width: 1240px;
     margin: 0 auto;
+    padding: 80px 100px;
+}
+.fname{
+    width: 50%;
+}
+.lname{
+    width: 49%;
+}
+.email{
+    width: 100%;
+}
+.number{
+    width: 100%;
+}
+.select{
+    width: 100%;
+}
+.payment-method{
+    display: flex;
+    justify-content: space-between;
 }
 /* ---------------------------payment-part-end--------------------- */
 
