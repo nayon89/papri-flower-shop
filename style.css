@@ -32,6 +32,7 @@ body{
     background-color: #E55473;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
 .image-part img{
     width: 635px;
@@ -90,3 +91,33 @@ body{
     font-size: 24px;
 }
 /* ---------------------------featured-part-end--------------------- */
+
+
+
+
+
+/* ---------------------------footer-part-start--------------------- */
+.footer-container{
+    background-color:#111010;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 100px 0;
+}
+.footer-title{
+    font-size: 48px;
+    font-weight: 900;
+}
+.footer-title > span{
+    color: #E55473;
+}
+.footer-info{
+    color: #E7E7E7;
+    font-size: 18px;
+    margin: 15px auto;
+    width: 625px;
+}
+.copyright{
+    font-size: 13px;
+    color: #707070;
+}
+/* ---------------------------footer-part-end--------------------- */
