@@ -38,3 +38,55 @@ body{
     height: 800px;
 }
 /* ---------------------------banner-part-end--------------------- */
+/* ---------------------------featured-part-start--------------------- */
+.feature-title-part{
+    text-align: center;
+    width: 594px;
+    margin: 50px auto;
+}
+.feature-title{
+    font-size: 40px;
+    font-weight: 800;
+    color: #272727;
+}
+.feature-details{
+    font-size: 16px;
+    margin: 24px 0;
+}
+.feature-image-part{
+    display: flex;
+    width: 1440px;
+    gap: 24px;
+    margin: 0 auto;
+}
+.image-box{
+    height: 605px;
+    width: 464px;
+}
+.feature-image{
+    padding-top: 100px;
+    text-align: center;
+    background-color: #F8EEF1;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%; 
+}
+.feature-image img{
+    width: 310px;
+    height: 428px;
+}
+.image-2{
+    background-color: #A9CDF3;
+}
+.image-3{
+    background-color: #E5ECDC;
+}
+.feature-text{
+    margin: 20px 0;
+    text-align: center;
+}
+.feature-text a{
+    color: #272727;
+    font-weight: 800;
+    font-size: 24px;
+}
+/* ---------------------------featured-part-end--------------------- */
