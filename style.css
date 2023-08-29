@@ -92,6 +92,28 @@ body{
 }
 /* ---------------------------featured-part-end--------------------- */
 
+/* ---------------------------delivery-part-start--------------------- */
+#delivery-container{
+    width: 1440px;
+    background-color: #F4F4F4;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px auto;
+    padding: 100px 0;
+    border-radius: 5px;
+}
+.delivery-box{
+    text-align: center;
+    width: 350px;
+}
+.delivery-info{
+    font-size: 16px;
+    color: #272727;
+    margin: 8px 0;
+}
+
+/* ---------------------------delivery-part-end--------------------- */
+
 
 /* ---------------------------hot-deal-part-start--------------------- */
 .deal-container{
