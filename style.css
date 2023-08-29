@@ -93,6 +93,42 @@ body{
 /* ---------------------------featured-part-end--------------------- */
 
 
+/* ---------------------------hot-deal-part-start--------------------- */
+.deal-container{
+    display: flex;
+    background-color: #FEF6F8;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 120px 0;
+    padding: 50px 0;
+
+}
+.deal-text{
+    width: 594px;
+    text-align: center;
+}
+.deal-heading{
+    font-size: 40px;
+    font-weight: 800;
+    color: #272727;
+}
+.deal-heading > span{
+    
+    color: #E55473;
+}
+.deal-info{
+    font-size: 16px;
+    color: #272727;
+    margin: 15px 0;
+    
+}
+.deal-image{
+    width:420px;
+}
+
+/* ---------------------------hot-deal-part-end--------------------- */
+
+
 
 
 /* ---------------------------instagram-part-start--------------------- */
